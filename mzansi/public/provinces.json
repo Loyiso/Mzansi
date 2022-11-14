@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Eastern Cape",
+    "description": "The Eastern Cape (Xhosa: iMpuma-Koloni, Afrikaans: Oos-Kaap) is one of the provinces of South Africa. Its capital is Bhisho, but its two largest cities are East London and Gqeberha. The second largest province in the country (at 168,966 km2) after Northern Cape, it was formed in 1994 out of the Xhosa homelands or bantustans of Transkei and Ciskei, together with the eastern portion of the Cape Province. The central and eastern part of the province is the traditional home of the indigenous Xhosa people.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Eastern_Cape_in_South_Africa.svg/500px-Eastern_Cape_in_South_Africa.svg.png"
+  },
+  {
+    "name": "Western Cape",
+    "description": "The Western Cape (Afrikaans: Wes-Kaap; Xhosa: iNtshona-Koloni) is a province of South Africa, situated on the south-western coast of the country. It is the fourth largest of the nine provinces with an area of 129,449 square kilometres (49,981 sq mi), and the third most populous, with an estimated 7 million inhabitants in 2020.[4] About two-thirds of these inhabitants live in the metropolitan area of Cape Town, which is also the provincial capital. The Western Cape was created in 1994 from part of the former Cape Province. The two largest cities are Cape Town and George.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Western_Cape_in_South_Africa.svg/500px-Western_Cape_in_South_Africa.svg.png"
+  },
+  {
+    "name": "Free State",
+    "description": "The Free State (Afrikaans: Vrystaat; Sotho: Freistata; Xhosa: iFreyistata; Tswana: Foreistata; Zulu: iFuleyisitata; before 1995, the Orange Free State) is a province of South Africa. Its capital is Bloemfontein, which is also South Africa's judicial capital.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Free_State_in_South_Africa.svg/500px-Free_State_in_South_Africa.svg.png"
+  },
+  {
+    "name": "Gauteng",
+    "description": "Gauteng (/xaʊˈtɛŋ/ khow-TENG;[4] Tswana: Gauteng; Northern and Southern Sotho: Gauteng; Zulu: eGoli; Tsonga: Gauteng/eXilungwini; Ndebele, Xhosa: iRhawuti; Southern Ndebele: I-Gauteng; Venda: Gauteng) is one of the nine provinces of South Africa. The name in Sotho-Tswana languages means 'place of gold'.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gauteng_in_South_Africa.svg/500px-Gauteng_in_South_Africa.svg.png"
+  },
+  {
+    "name": "KwaZulu-Natal",
+    "description": "KwaZulu-Natal (/kwɑːˌzuːluː nəˈtɑːl/, also referred to as KZN and known as 'the garden province';[4] Zulu: iKwaZulu-Natali; Xhosa: KwaZulu-Natala; Afrikaans: KwaZoeloe-Natal) is a province of South Africa that was created in 1994 when the Zulu bantustan of KwaZulu ('Place of the Zulu' in Zulu) and Natal Province were merged.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/KwaZulu-Natal_in_South_Africa.svg/500px-KwaZulu-Natal_in_South_Africa.svg.png"
+  },
+  {
+    "name": "Limpopo ",
+    "description": "Limpopo is the northernmost province of South Africa. It is named after the Limpopo River, which forms the province's western and northern borders.[4] The capital and largest city in the province is Polokwane, while the provincial legislature is situated in Lebowakgomo.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Limpopo_in_South_Africa.svg/500px-Limpopo_in_South_Africa.svg.png"
+  },
+  {
+    "name": "North West",
+    "description": "North West (Tswana: Bokone Bophirima; Afrikaans: Noord-wes; Northern Sotho: Leboa-Bodikela) is a province of South Africa. Its capital is Mahikeng. The province is located to the west of the major population centre of Gauteng and south of Botswana.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/North_West_in_South_Africa.svg/500px-North_West_in_South_Africa.svg.png"
+  },
+  {
+    "name": "Northern Cape",
+    "description": "The Northern Cape (Afrikaans: Noord-Kaap; Xhosa: eMntla-Koloni; Tswana: Kapa Bokone) is the largest and most sparsely populated province of South Africa. It was created in 1994 when the Cape Province was split up.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Northern_Cape_in_South_Africa.svg/500px-Northern_Cape_in_South_Africa.svg.png"
+  },
+  {
+    "name": "Mpumalanga",
+    "description": "The Northern Cape (Afrikaans: Noord-Kaap; Xhosa: eMntla-Koloni; Tswana: Kapa Bokone) is the largest and most sparsely populated province of South Africa. It was created in 1994 when the Cape Province was split up.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mpumalanga_in_South_Africa.svg/500px-Mpumalanga_in_South_Africa.svg.png"
+  }
+]
