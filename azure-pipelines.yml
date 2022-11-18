@@ -16,6 +16,5 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    npm install --force
-    npm run build
+    npm install --force 
   displayName: 'npm install and build'
